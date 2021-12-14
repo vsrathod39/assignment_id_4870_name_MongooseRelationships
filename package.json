@@ -2,7 +2,7 @@
   "name": "assignment_id_4870_name_MongooseRelationships",
   "version": "1.0.0",
   "description": "Mongoose Relationship",
-  "main": "srcapp.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon src/app.js"
